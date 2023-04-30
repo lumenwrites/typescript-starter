@@ -1,4 +1,4 @@
 import path from 'path'
-import { helloWorld } from "./utils";
+import { capitalize } from "./utils";
 
-helloWorld();
+console.log('Hello, world!');
