@@ -1,4 +1,5 @@
-import path from 'path'
-import { capitalize } from "./utils";
-
-console.log('Hello, world!');
+import { readJson, saveJson, readText, saveText } from './utils'
+async function main() {
+  console.log('DONE')
+}
+main()
